@@ -1,0 +1,3 @@
+/Users/sebastianriosfuentes/CLionProjects/sqrt/cmake-build-debug/CMakeFiles/sqrt.dir
+/Users/sebastianriosfuentes/CLionProjects/sqrt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sebastianriosfuentes/CLionProjects/sqrt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
